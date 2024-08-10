@@ -639,6 +639,8 @@
         <items xsi:type="form:FormField">
           <name>ТоварыСкидка</name>
           <id>160</id>
+          <visible>true</visible>
+          <enabled>true</enabled>
           <userVisible>
             <common>true</common>
           </userVisible>
@@ -1171,6 +1173,8 @@
         <items xsi:type="form:FormField">
           <name>УслугиСкидка</name>
           <id>163</id>
+          <visible>true</visible>
+          <enabled>true</enabled>
           <userVisible>
             <common>true</common>
           </userVisible>
